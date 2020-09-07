@@ -4,8 +4,8 @@
   </div>
 </template>
 
-<script>
 
+<script>
 export default {
   name: 'App',
   components: {
@@ -14,6 +14,7 @@ export default {
 }
 </script>
 
-<style>
 
+<style>
+  @import "./assets/css/base.css";
 </style>
